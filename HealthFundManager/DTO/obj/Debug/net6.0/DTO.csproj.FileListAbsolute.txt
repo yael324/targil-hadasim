@@ -1,0 +1,75 @@
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\USER\Desktop\אסתי עבודה\HealthFundManager\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\blas\Desktop\פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\blas\Desktop\ללא שינוי פרויקט 10.05\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\blas\Desktop\‏‏ללא שינוי פרויקט 10.05 - עותק\HealthFundManager (1)\HealthFundManager\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\blas\Desktop\תרגיל בית הדסים\HealthFundManager\DTO\obj\Debug\net6.0\ref\DTO.dll
