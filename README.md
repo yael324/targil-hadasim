@@ -1,5 +1,5 @@
 
-צילומי מסך של צד הלקוח:
+Screenshots of the client side:
 
 get all employee
 
